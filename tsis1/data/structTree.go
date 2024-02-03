@@ -1,4 +1,4 @@
-package main
+package data
 
 type FootballPlayer struct {
 	Name     string `json:"name"`

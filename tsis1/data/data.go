@@ -1,6 +1,6 @@
-package main
+package data
 
-var footballClubs = map[string]FootballClub{
+var FootballClubs = map[string]FootballClub{
 	"manutd": {
 		Name:     "Manchester United",
 		Location: "Manchester",
